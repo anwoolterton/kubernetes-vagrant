@@ -15,7 +15,7 @@ brew cask install virtualbox
 ## Vagrant Plugins
 ```
 vagrant plugin install vagrant-ssh
-vagrant plugin installvagrant-hostmanager
+vagrant plugin install vagrant-hostmanager
 vagrant plugin install vagrant-ssh
 ```
 
